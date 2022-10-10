@@ -32,7 +32,7 @@ sidebar:
       title: Langues
       info:
         - idiom: Français
-          level: Natif
+          level: Langue maternelle
 
         - idiom: Anglais
           level: Courant
@@ -53,7 +53,7 @@ sidebar:
 career-profile:
     title: Profil
     summary: |
-      Ingénieur DevOps avec une année d'expérience en alternance. Curieux de découvrir et d'apprendre.
+      Ingénieur DevOps avec une année d'expérience en alternance. Curieux de découvertes et d'apprendre.
 
 education:
     title: Formation
@@ -85,6 +85,7 @@ experiences:
           Ingénieur DevOps en alternance pour des solutions collaboratives sécurisées de messagerie et de partage de fichiers.
           Travail de mutualisation de ressources Kubernetes sur un projet déjà existant. Technos utilisées :
             - Helm, Ansible, Git, Elastic, Grafana, Istio, Linux, Artifactory, Kubernetes, Rancher
+          
           Collaboration et coordination avec l'équipe de QA : 
             - Mise en place de procédures et de déploiement d'environnements de tests
             - Documentation
