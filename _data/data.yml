@@ -110,7 +110,7 @@ projects:
 
       - title: Mise à jour de scripts de déploiement d'infrastructure client
         tagline: |
-          Suite à des mises à jour de l'API du cloud provider (OVH), adapter les scripts de déploiements de VMs. 
+          Suite à des mises à jour de l'API du cloud provider (OVH), adapter les scripts de déploiement de VMs. 
 
       - title: Déploiement d'un outil d'analyse de logs
         tagline: |
