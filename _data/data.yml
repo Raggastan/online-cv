@@ -84,7 +84,7 @@ experiences:
         details: |
           Ingénieur DevOps en alternance pour des solutions collaboratives sécurisées de messagerie et de partage de fichiers.
           Travail de mutualisation de ressources Kubernetes sur un projet déjà existant. Technos utilisées :
-            - Helm, Ansible, Git, Elastic, Grafana, Istio, Linux, Artifactory
+            - Helm, Ansible, Git, Elastic, Grafana, Istio, Linux, Artifactory, Kubernetes, Rancher
           Collaboration et coordination avec l'équipe de QA : 
             - Mise en place de procédures et de déploiement d'environnements de tests
             - Documentation
