@@ -15,7 +15,7 @@ sidebar:
     email: stanislas.postel@gmail.com
     phone: +33679765980
     citizenship:
-    website: blog.webjeda.com #do not add http://
+    website:  #do not add http://
     linkedin: stanislaspostel
     xing: 
     github: raggastan
@@ -51,57 +51,41 @@ sidebar:
 
 
 career-profile:
-    title: Career Profile
+    title: Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Ingénieur DevOps avec une année d'expérience en alternance.
+
 education:
-    title: Education
+    title: Formation
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
+      - degree: Diplôme d'ingénieur
+        university: EFREI Paris
+        time: 2019 - 2022
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
+          Formation initiale de la L3 au M1 suivie d'un M2 en contrat de professionalisation chez Ercom / Thales.
+          Spécialité "Network and Cloud Infrastructures", enseignée en anglais. 
+      - degree: Bachelor of Engineering Science
+        university: EFREI Paris
+        time: 2019 - 2020
+      - degree: Licence Sciences, Technologies, Santé, Mention Informatique
+        university: Université Gustave Eiffel
+        time: 2019 - 2020
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          Équivalence suite à une année de L3 à l'EFREI Paris
+      - degree: CPGE TSI
+        university: Lycée Marcel Sembat
+        time: 2016 - 2018
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Ingénieur DevOps alternant
+        time: 2021 - 2022
+        company: Ercom / Thales, Paris
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
+          Ingénieur DevOps pour des solutions collaboratives sécurisées de messagerie et de partage de fichiers.
+          Travail de mutualisation de ressources Kubernetes sur un projet déjà existant. Technos utilisées :
+            - Helm, Ansible, Git, Elastic, Grafana, Istio
+          Collaboration avec l'équipe de QA, mise en place de procédures et de déploiement d'environnement de tests
       - role: Senior Software Engineer
         time: 2014 - 2015
         company: Google, London
