@@ -13,7 +13,7 @@ sidebar:
 
     # Sidebar links
     email: stanislas.postel@gmail.com
-    phone: +33679765980
+    phone: 0679765980
     citizenship:
     website:  #do not add http://
     linkedin: stanislaspostel
@@ -26,7 +26,7 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    pdf: 
 
     languages:
       title: Langues
@@ -99,24 +99,22 @@ experiences:
           Technos utilisées :
             - Postman, Bash, Python
             - Elastic, Kibana
-
-    title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+projects:
+    title: Projets
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Mutualisation de ressources Kubernetes
+        tagline: |
+          Mutualisation de ressources Kubernetes pour l'application Citadel Team tout en garantissant le même niveau de sécurité afin
+          de diminuer le nombre de VMs nécessaire et faciliter grandement les opérations sur les clusters des clients. Lien étroit avec 
+          l'équipe de QA. Rédaction de documentation, déploiements d'environnements de test, rédaction de procédures de test.
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: Mise à jour de scripts de déploiement d'infrastructure client
+        tagline: |
+          Suite à des mises à jour de l'API du cloud provider (OVH), adapter les scripts de déploiements de VMs. 
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: Déploiement d'un outil d'analyse de logs
+        tagline: |
+          
 
       - title: Atom
         link: "#"
