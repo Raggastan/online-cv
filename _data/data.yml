@@ -82,21 +82,23 @@ experiences:
         time: 2021 - 2022
         company: Ercom / Thales, Paris
         details: |
-          Ingénieur DevOps pour des solutions collaboratives sécurisées de messagerie et de partage de fichiers.
+          Ingénieur DevOps en alternance pour des solutions collaboratives sécurisées de messagerie et de partage de fichiers.
           Travail de mutualisation de ressources Kubernetes sur un projet déjà existant. Technos utilisées :
-            - Helm, Ansible, Git, Elastic, Grafana, Istio
-          Collaboration avec l'équipe de QA, mise en place de procédures et de déploiement d'environnement de tests
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+            - Helm, Ansible, Git, Elastic, Grafana, Istio, Linux, Artifactory
+          Collaboration et coordination avec l'équipe de QA : 
+            - Mise en place de procédures et de déploiement d'environnements de tests
+            - Documentation
+          Formation en CI/CD : Git et Artifactory
+      - role: Ingénieur sécurité pour solution de messagerie collaborative
+        time: 2021
+        company: Thales SIX GTS, Paris
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          Stage de M1 chez Thales dans l'équipe de cybersécurité.
+          Rédaction de tests d'API sur la solution de messagerie développée par l'équipe, afin de valider les mises à jour.
+          Mise en place d'un outil d'analyse de logs pour détecter des comportements jugés suspicieux.
+          Technos utilisées :
+            - Postman, Bash, Python
+            - Elastic, Kibana
       - role: UI Developer
         time: 2012 - 2014
         company: Amazon, London
