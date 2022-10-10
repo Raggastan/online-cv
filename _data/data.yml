@@ -114,16 +114,7 @@ projects:
 
       - title: Déploiement d'un outil d'analyse de logs
         tagline: |
-          
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
+          Détection de comportement suspicieux grâce à de l'analyse de logs en utilisant ElasticSearch dans l'équipe cybersécurité
 publications:
     title: Publications
     intro: |
