@@ -126,5 +126,6 @@ skills:
     title: Mots-clés &amp; SKills
 
     details: |
-      Helm, DevOps, Ansible, Openstack, Kubernetes, Rancher, Istio, Git, Artifactory, Elastic, CI/CD, Grafana, Linux, Agile, 
+      Helm, DevOps, Ansible, Openstack, Kubernetes, Rancher, Istio, Git, Artifactory, ElasticSearch, CI/CD, Grafana, Linux, Agile,
+      Bash, Docker, Nginx, StorageOS, Vault, Jira
 
