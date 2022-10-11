@@ -118,7 +118,7 @@ projects:
           Détection de comportement suspicieux grâce à de l'analyse de logs en utilisant ElasticSearch dans l'équipe cybersécurité
 
 skills:
-    title: Skills &amp; Proficiency
+    title: Mots-clés &amp; SKills
 
     toolset:
       - name: Python & Django
