@@ -42,6 +42,12 @@
       <a href="https://linkedin.com/in/{{ sidebar.linkedin }}" target="_blank">{{ sidebar.linkedin }}</a>
     </li>
     {% endif %}
+    
+    {% if sidebar.location %}
+    <li class="location"><i class="fa-solid fa-location-pin"></i>
+      <a href="">{{ sidebar.location }}</a>
+    </li>
+    {% endif %}
 
     {% if sidebar.xing %}
     <li class="xing"><i class="fab fa-xing"></i>
