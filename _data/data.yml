@@ -48,7 +48,10 @@ sidebar:
 
         - item: Musique
           link:
-
+    permis:
+      title: Permis
+        - item: B
+        - item: A2
 
 career-profile:
     title: Profil
