@@ -163,6 +163,8 @@ p {
   grid-column: span 7;
   background: #fff;
   padding: 60px;
+  text-align: justify;
+  text-justify: inter-word;
   .section-title {
     text-transform: uppercase;
     font-size: 20px;
