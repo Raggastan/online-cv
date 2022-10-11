@@ -50,6 +50,7 @@ sidebar:
           link:
     permis:
       title: Permis
+      info:
         - item: B
         - item: A2
 
