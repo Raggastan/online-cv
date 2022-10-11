@@ -11,14 +11,10 @@
   </h2>
 
   <div class="skillset">
-    {%assign skills_list = "" %}
-    {% for skill in skills.toolset %}
-    {{ skill | append: skills_list | append: ", "}}
     <div class="item">
-      
+      {{ skills.details }}
 
     </div><!--//item-->
-    {% endfor %}
 
   </div>
 
