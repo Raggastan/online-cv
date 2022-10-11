@@ -1,0 +1,22 @@
+{% assign permis = site.data.data.sidebar.permis %}
+{% if permis %}
+<div class="permis-container container-block">
+
+  <h2 class="container-block-title">
+    {{ permis.title }}
+  </h2>
+
+  <ul class="list-unstyled permis-list">
+    {% for permis in permis.info %}
+
+      {% if permis.link %}
+      <li><a href="{{ permis.link }}">{{ permis.item }}</a></li>
+      {% else %}
+      <li>{{ permis.item }}</li>
+      {% endif %}
+
+    {% endfor %}
+  </ul>
+
+</div><!--//permis-->
+{% endif %}
