@@ -119,7 +119,8 @@ projects:
 
       - title: Déploiement d'un outil d'analyse de logs
         tagline: |
-          Détection de comportement suspicieux grâce à de l'analyse de logs en utilisant ElasticSearch dans l'équipe cybersécurité
+          Détection de comportement suspicieux grâce à de l'analyse de logs en utilisant ElasticSearch dans l'équipe cybersécurité. L'objectif est de prévenir
+          une attaque en bloquant l'utilisateur froduleux.
 
 skills:
     title: Mots-clés &amp; SKills
