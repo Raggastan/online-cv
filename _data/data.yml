@@ -138,3 +138,5 @@ skills:
       Helm, DevOps, Ansible, Openstack, Kubernetes, Rancher, Istio, Git, Artifactory, ElasticSearch, CI/CD, Grafana, Linux, Agile,
       Bash, Docker, Nginx, StorageOS, Vault, Jira
 
+footer: >
+  CV réalisé en utilisant le CI/CD de Github
