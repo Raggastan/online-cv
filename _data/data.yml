@@ -132,7 +132,7 @@ projects:
           une attaque en bloquant l'utilisateur froduleux.
 
 skills:
-    title: Mots-clés &amp; SKills
+    title: Compétences
 
     details: |
       Helm, DevOps, Ansible, Openstack, Kubernetes, Rancher, Istio, Git, Artifactory, ElasticSearch, CI/CD, Grafana, Linux, Agile,
