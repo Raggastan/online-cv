@@ -96,7 +96,7 @@ experiences:
         company: Ercom / Thales, Paris
         details: |
           Ingénieur DevOps en alternance pour des solutions collaboratives sécurisées de messagerie et de partage de fichiers.
-          Travail de mutualisation de ressources Kubernetes sur un projet déjà existant. Technos utilisées :
+          Travail de mutualisation de ressources Kubernetes sur un projet déjà existant afin de faciliter les opérations sur les infrastructures des clients. Technos utilisées :
             - Helm, Ansible, Git, Elastic, Grafana, Istio, Linux, Artifactory, Kubernetes, Rancher
           
           Collaboration et coordination avec l'équipe de QA : 
