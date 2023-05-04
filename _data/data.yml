@@ -95,37 +95,33 @@ experiences:
         time: 2021 - 2022
         company: Ercom / Thales, Paris
         details: |
-          Ingénieur DevOps en alternance pour des solutions collaboratives sécurisées de messagerie et de partage de fichiers.
-          Travail de mutualisation de ressources Kubernetes sur un projet déjà existant afin de faciliter les opérations sur les infrastructures des clients. Technos utilisées :
-            - Helm, Ansible, Git, Elastic, Grafana, Istio, Linux, Artifactory, Kubernetes, Rancher
-          
-          Collaboration et coordination avec l'équipe de QA : 
-            - Mise en place de procédures et de déploiement d'environnements de tests
-            - Documentation
-          Formation en CI/CD : Git et Artifactory
+          Chez Ercom, filiale de Thales, DevOps dans une équipe de 6 personnes pour des solutions sécurisées de 
+          messagerie et de partage de fichiers, à vocation d’être certifiées par l’ANSSI.
       - role: Ingénieur sécurité pour solution de messagerie collaborative
         time: 2021
         company: Thales SIX GTS, Paris
         details: |
-          Stage de M1 chez Thales dans l'équipe de cybersécurité.
-          Rédaction de tests d'API sur la solution de messagerie développée par l'équipe, afin de valider les mises à jour.
-          Mise en place d'un outil d'analyse de logs pour détecter des comportements jugés suspicieux.
-          Technos utilisées :
-            - Postman, Bash, Python
-            - Elastic, Kibana
+          Stage de M1 chez Thales dans l’équipe de cybersécurité pour une solution de messagerie sécurisée.
 projects:
     title: Projets
     assignments:
-      - title: Mutualisation de ressources Kubernetes
+      - title: Mutualisation de ressources cloud / kubernetes
         tagline: |
           Mutualisation de ressources Kubernetes pour l'application Citadel Team tout en garantissant le même niveau de sécurité afin
           de diminuer le nombre de VMs nécessaire et faciliter grandement les opérations sur les clusters des clients. Lien étroit avec 
           l'équipe de QA. Rédaction de documentation, déploiements d'environnements de test, rédaction de procédures de test.
-
+      - title: Maintien en condition opérationnelle / patching des infrastructures clientes
+        tagline: Dépannage des infrastructures Citadel Team des clients
+      - title: Déploiement / mise à l’échelle / monitoring d’infrastructures cloud pour les clients Citadel Team
+        tagline: Création, scaling et monitoring des infrastructures clientes
       - title: Mise à jour de scripts de déploiement d'infrastructure client
         tagline: |
           Suite à des mises à jour de l'API du cloud provider (OVH), adapter les scripts de déploiement de VMs. 
-
+      - title: Évolution des infrastructures clientes existantes
+        tagline: |
+          afin de faciliter les opérations de maintenance et de déploiement. 
+          Recherche et tests de solutions à la problématique
+          Garantir le même niveau de sécurité (certificats mTLS entre micro-services, application de la philosophie "zero trust")
       - title: Déploiement d'un outil d'analyse de logs
         tagline: |
           Détection de comportement suspicieux grâce à de l'analyse de logs en utilisant ElasticSearch dans l'équipe cybersécurité. L'objectif est de prévenir
