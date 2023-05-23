@@ -91,6 +91,11 @@ education:
 experiences:
     title: Experiences
     info:
+      - role: Ingénieur Systèmes et Réseaux
+        company: Experis France, Rouen
+        time: 2023 - 
+        details: |
+          Consultant DevOps dans une ESN.
       - role: Ingénieur DevOps alternant
         time: 2021 - 2022
         company: Ercom / Thales, Paris
