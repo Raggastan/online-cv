@@ -91,9 +91,13 @@ education:
 experiences:
     title: Experiences
     info:
+      - role: Cloud Solution & Support Engineer
+        company: S3ns / Thales, Paris
+        details: |
+          Chez S3ns, filiale de Thales née du partenariat entre celui-ci et Google.
       - role: Ingénieur DevOps
         company: Experis France, Rouen
-        time: 2023 - 
+        time: Janvier 2023 - Juin 2023
         details: |
           Consultant DevOps dans une ESN.
       - role: Ingénieur DevOps alternant
